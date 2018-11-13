@@ -1,0 +1,10 @@
+\documentclass[a4paper, 12pt]{article}
+
+\usepackage{amsmath}
+\usepackage{indentfirst}
+\usepackage{graphicx}
+
+
+\begin{document}
+
+\end{document}
